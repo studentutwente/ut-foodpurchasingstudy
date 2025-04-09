@@ -110,6 +110,7 @@
       <li>You will receive notifications three times a day prompting you to complete a short questionnaire.</li>
       <li>If you have purchased food, please take a picture and attach it to your next questionnaire response. This method is advisable and strongly recommended.</li>
       <li>If you forget to take a picture, you may describe your purchase in detail instead.</li>
+            <li>When filling in the questionnaire, please ensure that you capture everything you have purchased within a single photo, as you can only upload one image per entry.</li>
     </ul>
 
     <p>Important Notes:</p>
