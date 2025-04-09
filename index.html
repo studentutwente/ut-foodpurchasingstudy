@@ -133,6 +133,7 @@
     <p>Thank you for your participation! If you have any questions, feel free to reach out to:</p>
     <p>Chiara Jetter <a href="mailto:c.jetter@student.utwente.nl">Write us an Email</a></p>
     <p>Lara Yacoubian <a href="mailto:l.yacoubian@student.utwente.nl">Write us an Email</a></p>
+    <p>Thank you </p>
   </section>
 
   <footer>
